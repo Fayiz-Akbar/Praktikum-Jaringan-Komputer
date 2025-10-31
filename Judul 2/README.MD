@@ -1,5 +1,5 @@
 Link Youtube :
-
+https://youtu.be/61Lj-nMmC9o
 
 Foto Topologi :
 ![alt text](Topologi.png)
