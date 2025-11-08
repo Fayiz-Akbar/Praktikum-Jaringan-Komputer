@@ -1,12 +1,17 @@
 Link Youtube :
-
+https://youtu.be/ooha473CSRM
 
 Foto Topologi :
-
-Foto Ping PC-B ke PC-A :
+![alt text](topologi.jpg)
 
 Foto Ping PC-A ke PC-B :
+![alt text](<ping PC-A ke PC-B.png>)
 
-Foto Ping Switch 1 ke PC-B :
+Foto Ping PC-A ke S1 :
+![alt text](<PC-A ke S1.jpg>)
 
-Foto Ping R1 Ke PC-B :
+Foto Ping S1 ke S2 :
+![alt text](<ping S1 ke S2.jpg>)
+
+Foto Ping PC-B Ke S2 :
+![alt text](<ping PC-B ke S2.jpg>)
